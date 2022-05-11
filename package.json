@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "jest": "^28.1.0"
+  },
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "main": "Reader.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeCanto3/Code-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JorgeCanto3/Code-Challenge/issues"
+  },
+  "homepage": "https://github.com/JorgeCanto3/Code-Challenge#readme",
+  "description": ""
+}
