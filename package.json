@@ -1,11 +1,11 @@
 {
   "dependencies": {
+    "express": "^4.18.1",
     "jest": "^28.1.0"
   },
   "name": "code-challenge",
   "version": "1.0.0",
   "main": "Reader.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
